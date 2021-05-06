@@ -1,6 +1,6 @@
 # Final-Project
-A demonstration of our final project dashboard
-Our Bokeh dashboard displays an example of how we would like to improve the information organized on common professor review websites. On our dashboard displays the professor's picture, student comments, grade distribution individual professors, and an overall grade distribution of all professors in our CSV file.
+A demonstration of our final project dashboard based on the Bokeh python package.
+Our Bokeh dashboard displays an example of how we would like to improve the information organized on common professor review websites. On our dashboard displays the professor's picture, student comments, grade distribution individual professors, and an overall grade distribution of all professors in our CSV file. 
 
 The provided code is accompanied with two csv files, one with grade distributions & image URLs from each professor as well as a csv file with professors and associated student comments. Note that these csv files are examples of what could be used in the future for a larger set of data in the ME department.
 From left to right these columns store semester/year, professor name, image url, course prefix, course name, A (# of students with letter grade), B, C, other.
