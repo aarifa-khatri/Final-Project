@@ -10,4 +10,4 @@ To display the dashboard, one will need to open the Command Prompt and have the 
 Then in the Command Prompt, type: "bokeh serve --show bokehproject1.py". This shows the dashboard/graphs on the web browser.
 Make sure to save the Python code before typing the above statement in Command Prompt.
 
-The code consists of reading the csv files, processing the data, and using the data to display images, comments, and grade distributions based on changing the name of the professor from a dropdown menu. There is one callback function used to change the info when coosing a different professor from the dropdown menu.
+The code consists of reading the csv files, processing the data, and using the data to display images, comments, and grade distributions based on changing the name of the professor and course from two dropdown menus. There are two callback functions associated with their corresponding dropdown widget used to change the info.
